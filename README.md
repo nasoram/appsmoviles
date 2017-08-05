@@ -24,3 +24,6 @@ Repositorio dedicado para los retos y entregas de la materia.
     </tr>
   </tbody>
 </table>
+
+> _Nelson Andrés Sora Mora_ </br>
+> Universidad Nacional de Colombia
