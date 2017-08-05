@@ -25,4 +25,4 @@ Repositorio dedicado para los retos y entregas de la materia.
   </tbody>
 </table>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=nasoram&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=nasoram&type=follow&count=false&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
