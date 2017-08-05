@@ -16,7 +16,7 @@
     <tr>
       <td>Reto1</td>
       <td>Propuesta proyecto</td>
-      <td>Reto1.zip</td>
+      <td>~~Reto1.zip~~</td>
     </tr>
   </tbody>
 </table>
