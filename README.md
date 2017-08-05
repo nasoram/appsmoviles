@@ -25,5 +25,5 @@ Repositorio dedicado para los retos y entregas de la materia.
   </tbody>
 </table>
 
-> _Nelson Andrés Sora Mora_ </br>
+> _Nelson Andrés Sora Mora_  
 > Universidad Nacional de Colombia
