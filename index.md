@@ -1,7 +1,3 @@
-# Desarrollo de Aplicaciones para Dispositivos Móviles
-
-Repositorio dedicado para los retos y entregas de la materia.
-
 <h1>Retos</h1>
 <table>
   <thead>
@@ -24,5 +20,8 @@ Repositorio dedicado para los retos y entregas de la materia.
     </tr>
   </tbody>
 </table>
+
+_Nelson Andrés Sora Mora_
+Universidad Nacional de Colombia
 
 <iframe src="https://ghbtns.com/github-btn.html?user=nasoram&type=follow&count=false&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
