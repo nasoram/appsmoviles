@@ -15,7 +15,7 @@ Repositorio dedicado para los retos y entregas de la materia.
     <tr>
       <td>Reto0</td>
       <td>Hola Mundo en Android Studio</td>
-      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/index.md">Reto0.zip</a></td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto0.zip">Reto0.zip</a></td>
     </tr>
     <tr>
       <td>Reto1</td>
