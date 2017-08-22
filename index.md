@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>Reto 1</td>
-      <td>Propuesta proyecto</td>
+      <td>Propuesta Proyecto</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto1.zip">Reto1.zip</a></td>
     </tr>
     <tr>
