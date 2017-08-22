@@ -13,14 +13,19 @@ Repositorio dedicado para los retos y entregas de la materia.
   </thead>
   <tbody>
     <tr>
-      <td>Reto0</td>
+      <td>Reto 0</td>
       <td>Hola Mundo en Android Studio</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto0.zip">Reto0.zip</a></td>
     </tr>
     <tr>
-      <td>Reto1</td>
+      <td>Reto 1</td>
       <td>Propuesta proyecto</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto1.zip">Reto1.zip</a></td>
+    </tr>
+    <tr>
+      <td>Reto 2</td>
+      <td>Prototipo y Modelo Canvas</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto2.zip">Reto2.zip</a></td>
     </tr>
   </tbody>
 </table>
