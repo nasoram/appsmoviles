@@ -23,6 +23,11 @@
       <td>Prototipo y Modelo Canvas</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto2.zip">Reto2.zip</a></td>
     </tr>
+    <tr>
+      <td>Reto 3</td>
+      <td>Juguemos Triqui [McCOWN]</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto3.zip">Reto3.zip</a></td>
+    </tr>
   </tbody>
 </table>
 
