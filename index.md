@@ -28,6 +28,11 @@
       <td>Juguemos Triqui [McCOWN]</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto3.zip">Reto3.zip</a></td>
     </tr>
+    <tr>
+      <td>Reto 4</td>
+      <td>Mejorando nuestro Triqui (Menus y Diálogos) [McCOWN]</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto4.zip">Reto4.zip</a></td>
+    </tr>
   </tbody>
 </table>
 
