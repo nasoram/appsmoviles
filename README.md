@@ -37,6 +37,11 @@ Repositorio dedicado para los retos y entregas de la materia.
       <td>Mejorando nuestro Triqui (Menus y Diálogos) [McCOWN]</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto4.zip">Reto4.zip</a></td>
     </tr>
+    <tr>
+      <td>Reto 5</td>
+      <td>Incorporando gráficos y audio [McCOWN]</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto5.zip">Reto5.zip</a></td>
+    </tr>
   </tbody>
 </table>
 
