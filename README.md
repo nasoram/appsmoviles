@@ -42,6 +42,11 @@ Repositorio dedicado para los retos y entregas de la materia.
       <td>Incorporando gráficos y audio [McCOWN]</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto5.zip">Reto5.zip</a></td>
     </tr>
+    <tr>
+      <td>Reto 6</td>
+      <td>Cambiando de orientación y guardando el estado [McCOWN]</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto6.zip">Reto6.zip</a></td>
+    </tr>
   </tbody>
 </table>
 
