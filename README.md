@@ -47,6 +47,11 @@ Repositorio dedicado para los retos y entregas de la materia.
       <td>Cambiando de orientación y guardando el estado [McCOWN]</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto6.zip">Reto6.zip</a></td>
     </tr>
+    <tr>
+      <td>Reto 7</td>
+      <td>Preferencias [McCOWN]</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto7.zip">Reto7.zip</a></td>
+    </tr>
   </tbody>
 </table>
 
