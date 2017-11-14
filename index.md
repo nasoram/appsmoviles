@@ -48,6 +48,11 @@
       <td>Preferencias [McCOWN]</td>
       <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto7.zip">Reto7.zip</a></td>
     </tr>
+    <tr>
+      <td>Reto 8</td>
+      <td>Usando SQLite</td>
+      <td><a href="https://github.com/nasoram/appsmoviles/edit/master/Retos/Reto8.zip">Reto8.zip</a></td>
+    </tr>
   </tbody>
 </table>
 
